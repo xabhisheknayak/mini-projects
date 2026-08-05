@@ -6,15 +6,27 @@
 </head>
 <body>
     <div id='counter'>
-        <h1>Counter</h1>
-    <label id='count'>0</label>
-     <br>
-  <div id="div1">  
-    <button id='increment' class='buttons'>Increment</button>
-    <button id='decrement' class='buttons'>Decrement</button>
-    <button id='reset' class='buttons'>Reset</button>
+        <form >
+            <h1>temperature</h1>
+            <input type="number" id="textbox" value="0" />
+            <br>
+            <input type="radio" id="to-celsius" name="conversion" value="+" />
+            <label for="to-celsius">To Celsius</label>
+            <br>
+            <input type="radio" id="to-fahrenheit" name="conversion" value="-" />
+            <label for="to-fahrenheit">To Fahrenheit</label>
+            <br>
+            <button type="button" onclick="updateResult()" id="convert">Convert</button>
+            <h1 id='result'>your answer</h1>
+            <BR></BR>
+        </form>
+        
+    
+      
+   
+    
+    
+    </div>
     <script src='backend.js'></script>
-    </div>
-    </div>
 </body>
 </html>
