@@ -1,6 +1,6 @@
-let n = 3;
+let n = 10;
 
-let burstTime = [5, 3, 8];
+let burstTime = [5, 3, 8, 10, 11, 12, 15, 19, 3, 9, 1];
 let waitingTime = [];
 let turnaroundTime = [];
 
