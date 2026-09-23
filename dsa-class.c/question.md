@@ -4,6 +4,10 @@
 2. Write a program to print Fibonacci series using recursion.
 3. Write a program to implement stack using array.
 4. Write a program to convert an infix expression to a postfix expression.
+5. wrtie a program to implement linear list of item and store in array
+6. wap to implement binary search
+7. wap to implement queue using array
+8.
 
 ---
 
