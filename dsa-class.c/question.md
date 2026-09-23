@@ -17,3 +17,6 @@
 - **[class1q2.c](class1q2.c)**: Write a program to print Fibonacci series using recursion.
 - **[class2q1.c](class2q1.c)**: Write a program to implement stack using array.
 - **[class2q2.c](class2q2.c)**: Write a program to convert an infix expression to a postfix expression.
+- **[class3q1.c](class3q1.c)**: Write a program to implement a linear list of items and store it in an array.
+- **[class3q2.c](class3q2.c)**: Write a program to implement binary search.
+- **[class3q3.c](class3q3.c)**: Write a program to implement a queue using an array.
