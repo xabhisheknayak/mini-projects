@@ -7,8 +7,8 @@
 5. wrtie a program to implement linear list of item and store in array
 6. wap to implement binary search
 7. wap to implement queue using array
-8.
-
+8. wap to implement a stack using switch case
+9. wap to reverse a string using stack
 ---
 
 ### Questions by File
